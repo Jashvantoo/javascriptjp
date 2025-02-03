@@ -1,0 +1,2 @@
+# javascriptjp
+bassic
